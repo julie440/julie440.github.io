@@ -7,19 +7,19 @@ logo:             # filename of a logo image that has been placed into your imag
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Julie Reed
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  twitter: #username
-  facebook: #username
-  instagram: #username
+  bio: "Hello, I'm Julie Reed and I'm an Instructional Electronic Resources Librarian."
+  email: jreed@jcsu.edu
+  twitter: julie440
+  facebook: juliereedbell
+  instagram: julie440
   linkedin: #username
   github: #username
   researchgate: #username
   mendeley: #username
   google:
-    plus: #username
+    plus: reedjulie
     analytics:
     verify:
     scholar: #id
